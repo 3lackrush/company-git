@@ -9,7 +9,7 @@ public class DBUtils {
     public static final String url = "jdbc:mysql://127.0.0.1/company";  
     public static final String name = "com.mysql.jdbc.Driver";  
     public static final String user = "root";  
-    public static final String password = "";  
+    public static final String password = "git@leak2018!";  
   
     public Connection conn = null;  
     public PreparedStatement pst = null;  
